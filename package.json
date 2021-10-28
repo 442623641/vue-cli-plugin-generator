@@ -1,0 +1,25 @@
+{
+  "name": "vue-cli-plugin-generator",
+  "version": "0.0.1",
+  "description": "template generator for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/442623641/vue-cli-plugin-generator.git"
+  },
+  "keywords": [
+    "generator",
+    "vue-cli",
+    "plugin",
+    "template"
+  ],
+  "author": "Leo Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/442623641/vue-cli-plugin-generator/issues"
+  },
+  "homepage": "https://github.com/442623641/vue-cli-plugin-generator#readme"
+}
